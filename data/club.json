@@ -168,22 +168,37 @@
   ],
   "culture": [
     {
-      "name": "管弦楽団"
+      "name": "管弦楽団",
+      "twitter": "nitorch",
+      "instagram": "nitorchestra",
+      "website": "http://nitorchestra.club.nitech.ac.jp/"
     },
     {
-      "name": "ギターアンサンブル部"
+      "name": "ギターアンサンブル部",
+      "twitter": "nit_guitar",
+      "instagram": "nitguitar",
+      "website": "https://nitguitar.jimdofree.com/"
     },
     {
-      "name": "A.F.Q."
+      "name": "A.F.Q.",
+      "twitter": "AFQnitech",
+      "website": "http://afqnet.web.fc2.com/"
     },
     {
-      "name": "PMC祭ん"
+      "name": "PMC祭ん",
+      "twitter": "PMC_matsurin",
+      "instagram": "pmcmatsurin",
+      "website": "https://pmc.1net.jp/"
     },
     {
-      "name": "合唱団"
+      "name": "合唱団",
+      "twitter": "NIT_Chorus",
+      "instagram": "nit_chorus"
     },
     {
-      "name": "ESS"
+      "name": "ESS",
+      "twitter": "meiko_ess",
+      "instagram": "meikoess"
     },
     {
       "name": "美術部"
@@ -192,55 +207,78 @@
       "name": "将棋部"
     },
     {
-      "name": "囲碁部"
+      "name": "囲碁部",
+      "twitter": "nit_igo"
     },
     {
-      "name": "鉄道研究会"
+      "name": "鉄道研究会",
+      "twitter": "nit_rfc",
+      "website": "https://rfc-nite.ch/"
     },
     {
-      "name": "S-EV(ソーラーカー部)"
+      "name": "ソーラーカー部",
+      "twitter": "NIT_SolarCar",
+      "website": "http://solar-car.club.nitech.ac.jp/"
     },
     {
-      "name": "コンピュータ倶楽部"
+      "name": "コンピュータ倶楽部",
+      "twitter": "nitmic_twi",
+      "website": "http://nitmic.club.nitech.ac.jp/"
     },
     {
-      "name": "ロボコン工房"
+      "name": "ロボコン工房",
+      "twitter": "nit_robocon",
+      "website": "https://nitrobocon.sakura.ne.jp/nitrobo_hp/"
     },
     {
-      "name": "Seminar"
+      "name": "Seminar",
+      "twitter": "sem1nar_bu",
+      "instagram": "club_seminar"
     },
     {
-      "name": "D.F.C."
+      "name": "D.F.C.",
+      "twitter": "2022DFC",
+      "instagram": "dfc_2022"
     },
     {
       "name": "新聞部"
     },
     {
-      "name": "マジックサークルNIT"
+      "name": "マジックサークルNIT",
+      "twitter": "Magic_NIT2"
     },
     {
-      "name": "吹奏楽団"
+      "name": "吹奏楽団",
+      "twitter": "nitwindorch",
+      "instagram": "nitwindorch",
+      "website": "http://nwo.club.nitech.ac.jp/"
     },
     {
-      "name": "ボランティア部"
-    },
-    {
-      "name": "環境委員会NEP"
+      "name": "ボランティア部",
+      "twitter": "nit_vpr"
     },
     {
       "name": "天文部"
     },
     {
-      "name": "人力飛行機研究会NIEWs"
+      "name": "人力飛行機研究会NIEWs",
+      "twitter": "niews_hpa",
+      "instagram": "niews.nitech",
+      "website": "https://niewsnitech.wixsite.com/niews"
     },
     {
-      "name": "C0de"
+      "name": "C0de",
+      "twitter": "c0demattari",
+      "website": "https://c0de-web.club.nitech.ac.jp/"
     },
     {
-      "name": "漫画研究部"
+      "name": "漫画研究部",
+      "twitter": "nit_sm"
     },
     {
-      "name": "Grazie!!(アカペラ)"
+      "name": "Grazie!!(アカペラ)",
+      "twitter": "nitech_grazie",
+      "website": "https://acappellaofgrazie.wixsite.com/grazie-meikoudai"
     }
   ],
   "circle": []
