@@ -1,0 +1,247 @@
+{
+  "athletic": [
+    {
+      "name": "陸上競技部",
+      "twitter": "Nitech_TF",
+      "instagram": "nit_track_field"
+    },
+    {
+      "name": "水泳部",
+      "twitter": "NitSwimmingTeam",
+      "website": "https://nitswimmingteam.club.nitech.ac.jp/"
+    },
+    {
+      "name": "硬式野球部",
+      "twitter": "nit_baseball",
+      "twitter-alt": "nit_baseball_22",
+      "website": "http://nit-baseball.club.nitech.ac.jp/"
+    },
+    {
+      "name": "準硬式野球部",
+      "twitter": "meiko_junkou",
+      "instagram": "meiko_junko"
+    },
+    {
+      "name": "硬式テニス部",
+      "twitter": "_nit_tennis",
+      "instagram": "nitech_tennis_official"
+    },
+    {
+      "name": "ソフトテニス部",
+      "twitter": "nit_softtennis",
+      "instagram": "nit_softtennis",
+      "website": "https://www.nit-softtennis.com/"
+    },
+    {
+      "name": "バスケットボール部",
+      "twitter": "NIT_basketball",
+      "instagram": "nitech_basketball"
+    },
+    {
+      "name": "男子バレーボール部",
+      "twitter": "nitvolleyzo",
+      "website": "http://nitvolleyball.weebly.com/"
+    },
+    {
+      "name": "女子バレーボール部",
+      "twitter": "fwvolley_meiko"
+    },
+    {
+      "name": "卓球部",
+      "twitter": "nitech_ttc",
+      "instagram": "nitech_tabletennis",
+      "website": "http://nitttc.rosx.net/"
+    },
+    {
+      "name": "バトミントン部"
+    },
+    {
+      "name": "サッカー部",
+      "twitter": "wPKlBhjKmBiWQUW",
+      "instagram": "nit._.soccer"
+    },
+    {
+      "name": "ラグビー部",
+      "twitter": "nitrfc",
+      "instagram": "nit_rugby",
+      "facebook": "nitrugby"
+    },
+    {
+      "name": "アメリカンフットボール部",
+      "twitter": "SilverBacks_PR",
+      "twitter-alt": "silverbacks2022",
+      "instagram": "silverbacks_pr"
+    },
+    {
+      "name": "アイスホッケー部",
+      "twitter": "niticehockey",
+      "instagram": "nitech_icehockey",
+      "website": "http://niticehockey.wp.xdomain.jp/"
+    },
+    {
+      "name": "ハンドボール部",
+      "twitter": "meikodaihand"
+    },
+    {
+      "name": "柔道部",
+      "twitter": "nit_Judo",
+      "website": "https://nitjudo2016.wixsite.com/nit-judo/"
+    },
+    {
+      "name": "剣道部",
+      "twitter": "NIT_KENDO"
+    },
+    {
+      "name": "体操競技部"
+    },
+    {
+      "name": "馬術部",
+      "twitter": "nit_horse",
+      "twitter-alt": ""
+    },
+    {
+      "name": "空手道部"
+    },
+    {
+      "name": "弓道部",
+      "twitter": "Meikou_kyudo",
+      "twitter-alt": "shinkan_2022",
+      "website": "https://meiko-kyudo.jimdofree.com/"
+    },
+    {
+      "name": "合気道部",
+      "twitter": "nitechaiki",
+      "instagram": "nitechaiki"
+    },
+    {
+      "name": "ゴルフ部",
+      "twitter": "meikoudaigolf21"
+    },
+    {
+      "name": "ボート部",
+      "twitter": "nitrowingclub",
+      "instagram": "nitrowing_",
+      "website": "http://rowing.club.nitech.ac.jp/"
+    },
+    {
+      "name": "ヨット部",
+      "twitter": "NITyacht2016",
+      "twitter-alt": "NITyacht2021",
+      "instagram": "nit_sailing",
+      "website": "https://meiko-yacht.jimdofree.com/"
+    },
+    {
+      "name": "競技スキー部",
+      "twitter": "nit_ski",
+      "website": "http://ski.club.nitech.ac.jp/"
+    },
+    {
+      "name": "ライフル射撃部",
+      "twitter": "nit_rifle",
+      "website": "http://rifle-shooting.club.nitech.ac.jp/"
+    },
+    {
+      "name": "航空部",
+      "twitter": "nitsc_glider",
+      "twitter-alt": "nitsc_2022",
+      "instagram": "nit_gliderclub",
+      "website": "https://nitgliderclub.wixsite.com/website"
+    },
+    {
+      "name": "自動車部",
+      "twitter": "nitech_406"
+    },
+    {
+      "name": "ワンダーフォーゲル部",
+      "twitter": "meikoudai_WV",
+      "twitter-alt": "wangel_nit2017",
+      "website": "http://nitwv.club.nitech.ac.jp/"
+    },
+    {
+      "name": "ビリヤード部"
+    },
+    {
+      "name": "日本拳法部",
+      "twitter": "meikounikken",
+      "website": "https://nikkennit2013.wixsite.com/home"
+    }
+  ],
+  "culture": [
+    {
+      "name": "管弦楽団"
+    },
+    {
+      "name": "ギターアンサンブル部"
+    },
+    {
+      "name": "A.F.Q."
+    },
+    {
+      "name": "PMC祭ん"
+    },
+    {
+      "name": "合唱団"
+    },
+    {
+      "name": "ESS"
+    },
+    {
+      "name": "美術部"
+    },
+    {
+      "name": "将棋部"
+    },
+    {
+      "name": "囲碁部"
+    },
+    {
+      "name": "鉄道研究会"
+    },
+    {
+      "name": "S-EV(ソーラーカー部)"
+    },
+    {
+      "name": "コンピュータ倶楽部"
+    },
+    {
+      "name": "ロボコン工房"
+    },
+    {
+      "name": "Seminar"
+    },
+    {
+      "name": "D.F.C."
+    },
+    {
+      "name": "新聞部"
+    },
+    {
+      "name": "マジックサークルNIT"
+    },
+    {
+      "name": "吹奏楽団"
+    },
+    {
+      "name": "ボランティア部"
+    },
+    {
+      "name": "環境委員会NEP"
+    },
+    {
+      "name": "天文部"
+    },
+    {
+      "name": "人力飛行機研究会NIEWs"
+    },
+    {
+      "name": "C0de"
+    },
+    {
+      "name": "漫画研究部"
+    },
+    {
+      "name": "Grazie!!(アカペラ)"
+    }
+  ],
+  "circle": []
+}
